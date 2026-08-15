@@ -26,30 +26,14 @@ CSE Undergraduate @ NIT Mizoram | Backend Developer | Problem Solver
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science undergraduate at **NIT Mizoram** focused on building reliable backend systems and strengthening my problem-solving fundamentals.
+I'm a Computer Science undergraduate at **NIT Mizoram** interested in backend engineering, problem solving, and building practical software systems.
 
-- 🔭 Currently building a **Movie Booking Backend API**
-- ⚙️ Interested in **Backend Development, REST APIs, Databases & Software Engineering**
-- 🧠 **450+ DSA problems** solved on LeetCode
-- 🔬 Summer Intern at **IIT Delhi** — Deep Learning & Computer Vision
-- 👨‍💻 Developer Member at **Coding & AI Club, NIT Mizoram**
-- 🌱 Currently deepening my knowledge of **DSA, Backend Development & Core CS**
-
----
-
-## 📊 Developer Dashboard
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=default"
-       height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=default"
-       height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true"
-       height="165"/>
-</p>
+* 🔭 Currently developing a **Movie Booking Backend API**
+* ⚙️ Interested in **Backend Development, REST APIs, Databases & Software Engineering**
+* 🧠 Solved **450+ DSA problems** on LeetCode
+* 🔬 Completed a **Summer Internship at IIT Delhi** in Deep Learning & Computer Vision
+* 👨‍💻 Developer Member at **Coding & AI Club, NIT Mizoram**
+* 🌱 Currently improving my **DSA, Backend Development & Core CS fundamentals**
 
 ---
 
@@ -57,24 +41,25 @@ I'm a Computer Science undergraduate at **NIT Mizoram** focused on building reli
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### 🎬 Movie Booking Backend
+### 🩺 HealthAI — Chest X-ray Disease Detection
 
-**Node.js • Express.js • MongoDB • JWT**
+**TensorFlow • Keras • CNN • Computer Vision**
 
-Backend system for an end-to-end movie ticket booking platform.
+Deep learning project developed during my **Summer Internship at IIT Delhi** for medical image classification.
 
-**Key Features**
+**Highlights**
 
-- 🔐 JWT Authentication
-- 👥 Role-Based Access Control
-- 🎟️ Seat validation & reservation
-- 🗄️ MongoDB + Mongoose
-- 🏗️ MVC architecture
-- ⚠️ Centralized error handling
+* 🩻 Binary Chest X-ray classification
+* 🏥 Multi-label CheXpert disease classification
+* 🧠 CNN-based image classification
+* 📈 **88.62% test accuracy**
+* ⚙️ TensorFlow/Keras model training & evaluation
+* 🐧 Linux-based ML environment
 
-<a href="YOUR_MOVIE_BOOKING_REPO">
+<a href="https://github.com/Chandan9574/Chest-Xray-Disease-Detection">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -86,24 +71,26 @@ Backend system for an end-to-end movie ticket booking platform.
 
 **Node.js • Express.js • Algorithms**
 
-Reusable middleware for controlling API traffic and preventing request flooding.
+Reusable middleware designed to control API traffic and prevent request flooding.
 
-**Key Features**
+**Highlights**
 
-- ⏱️ Sliding-window algorithm
-- 🌐 Per-IP request tracking
-- 🚫 HTTP 429 handling
-- 🧩 Express middleware
-- ⚡ In-memory HashMap
+* ⏱️ Sliding-window algorithm
+* 🌐 Per-IP request tracking
+* 🚫 HTTP 429 handling
+* 🧩 Express middleware
+* ⚡ In-memory HashMap
 
 <a href="YOUR_RATE_LIMITER_REPO">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
 ### 📚 Library Management System
@@ -112,13 +99,13 @@ Reusable middleware for controlling API traffic and preventing request flooding.
 
 Desktop application for managing books and library transactions.
 
-**Key Features**
+**Highlights**
 
-- 📖 Book management
-- 🔄 Issue & return operations
-- ✅ Input validation
-- 🖥️ Java Swing interface
-- 🧱 OOP-based design
+* 📖 Book management
+* 🔄 Issue & return operations
+* ✅ Input validation
+* 🖥️ Java Swing interface
+* 🧱 OOP-based design
 
 <a href="YOUR_LIBRARY_REPO">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -128,53 +115,56 @@ Desktop application for managing books and library transactions.
 
 <td width="50%" valign="top">
 
-### 🔎 More Projects
+### 🎬 Movie Booking Backend API
 
-I'm continuously building and experimenting with:
+**Node.js • Express.js • MongoDB • JWT**
 
-- Backend systems
-- REST APIs
-- Database-driven applications
-- DSA & algorithms
-- Core Computer Science
-- AI/ML applications
+RESTful backend for an end-to-end movie ticket booking system.
 
-<a href="https://github.com/YOUR_USERNAME?tab=repositories">
-<img src="https://img.shields.io/badge/Explore%20Repositories-0e75b6?style=for-the-badge&logo=github&logoColor=white"/>
+**Highlights**
+
+* 🔐 JWT Authentication
+* 👥 Role-Based Access Control
+* 🎟️ Seat validation & reservation
+* 🗄️ MongoDB + Mongoose
+* 🏗️ MVC architecture
+* ⚠️ Centralized error handling
+
+<a href="YOUR_MOVIE_BOOKING_REPO">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-## 💼 Experience
+## 💼 Internship Experience
 
-### 🔬 Summer Intern — IIT Delhi
+### 🔬 Summer Intern — Indian Institute of Technology Delhi
 
 **May 2026 – July 2026**
 
-Worked on deep learning and computer vision with a focus on **Chest X-ray disease detection**.
+Worked on deep learning and computer vision for **Chest X-ray disease detection**.
 
-- Studied **CLIP and I-JEPA** research papers
-- Evaluated deep learning models using **TensorFlow/Keras**
-- Worked with binary and **CheXpert multi-label classification**
-- Configured ML environments and resolved dependency issues
-- Trained a binary classification model achieving **88.62% test accuracy**
+* Studied **CLIP and I-JEPA** research papers and presented their core concepts
+* Evaluated deep learning models using **TensorFlow/Keras**
+* Worked with binary and **CheXpert multi-label classification**
+* Configured ML environments and resolved TensorFlow dependency issues
+* Trained a binary classification model for 20 epochs
+* Achieved **88.62% test accuracy with 0.2623 test loss**
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Technologies
 
 ### 💻 Languages
 
 <p>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
 ### ⚙️ Backend & Web
@@ -231,24 +221,38 @@ Focused on:
 
 ## 🏆 Achievements
 
-- 🥇 **1st Position** — Proof Ideathon of Maths, NIT Mizoram
-- 🥈 **2nd Position** — Debate Competition, NIT Mizoram
-- 💻 **450+ DSA Problems** solved on LeetCode
+* 🥇 **1st Position** — Proof Ideathon of Maths, NIT Mizoram
+* 🥈 **2nd Position** — Debate Competition, NIT Mizoram
+* 💻 **450+ DSA Problems** solved on LeetCode
 
 ---
 
-## 👨‍💻 Leadership & Responsibilities
-
-### Coding & AI Club — NIT Mizoram
+## 👨‍💻 Coding & AI Club — NIT Mizoram
 
 **Developer Member · 2024 – Present**
 
-- Contributed to the development and maintenance of the club website
-- Participated in technical initiatives and development activities
+* Contributed to the development and maintenance of the club website
+* Participated in technical initiatives and development activities
 
 <a href="YOUR_CLUB_REPO">
 <img src="https://img.shields.io/badge/Club%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=default"
+       height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=default"
+       height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true"
+       height="165"/>
+</p>
 
 ---
 
@@ -275,5 +279,5 @@ Focused on:
 </p>
 
 <p align="center">
-<i>Build • Solve • Learn • Repeat</i>
+<i>Build • Solve • Learn</i>
 </p>
