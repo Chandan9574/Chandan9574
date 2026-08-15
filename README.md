@@ -11,20 +11,20 @@ CSE Undergraduate @ NIT Mizoram | Backend Developer | Problem Solver
 </p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://github.com/Chandan9574">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="YOUR_LEETCODE_URL">
+  <a href="https://www.linkedin.com/in/chandan-kumar-6bb627331/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/chandan_38/">
     <img src="https://img.shields.io/badge/LeetCode-450%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-  <a href="YOUR_CODEFORCES_URL">
-    <img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 A Little About Me
 
 I'm a Computer Science undergraduate at **NIT Mizoram** interested in backend engineering, problem solving, and building practical software systems.
 
@@ -34,17 +34,18 @@ I'm a Computer Science undergraduate at **NIT Mizoram** interested in backend en
 * 🔬 Completed a **Summer Internship at IIT Delhi** in Deep Learning & Computer Vision
 * 👨‍💻 Developer Member at **Coding & AI Club, NIT Mizoram**
 * 🌱 Currently improving my **DSA, Backend Development & Core CS fundamentals**
+* 📫 **Email:** [bt24cs038@nitmz.ac.in](mailto:bt24cs038@nitmz.ac.in)
 
 ---
 
-## 🚀 Featured Projects
+## 🧩 Things I've Built
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### 🩺 HealthAI — Chest X-ray Disease Detection
+### 🩺 Chest X-ray Disease Detection
 
 **TensorFlow • Keras • CNN • Computer Vision**
 
@@ -53,11 +54,11 @@ Deep learning project developed during my **Summer Internship at IIT Delhi** for
 **Highlights**
 
 * 🩻 Binary Chest X-ray classification
-* 🏥 Multi-label CheXpert disease classification
+* 🏥 CheXpert multi-label disease classification
 * 🧠 CNN-based image classification
 * 📈 **88.62% test accuracy**
 * ⚙️ TensorFlow/Keras model training & evaluation
-* 🐧 Linux-based ML environment
+* 🔧 ML environment setup and dependency debugging
 
 <a href="https://github.com/Chandan9574/Chest-Xray-Disease-Detection">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -71,7 +72,7 @@ Deep learning project developed during my **Summer Internship at IIT Delhi** for
 
 **Node.js • Express.js • Algorithms**
 
-Reusable middleware designed to control API traffic and prevent request flooding.
+Middleware designed to control API traffic and prevent request flooding.
 
 **Highlights**
 
@@ -81,7 +82,7 @@ Reusable middleware designed to control API traffic and prevent request flooding
 * 🧩 Express middleware
 * ⚡ In-memory HashMap
 
-<a href="YOUR_RATE_LIMITER_REPO">
+<a href="https://github.com/Chandan9574/REST_API_Rate_Limiter">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -107,7 +108,7 @@ Desktop application for managing books and library transactions.
 * 🖥️ Java Swing interface
 * 🧱 OOP-based design
 
-<a href="YOUR_LIBRARY_REPO">
+<a href="https://github.com/Chandan9574/Library-Management-System">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -130,7 +131,7 @@ RESTful backend for an end-to-end movie ticket booking system.
 * 🏗️ MVC architecture
 * ⚠️ Centralized error handling
 
-<a href="YOUR_MOVIE_BOOKING_REPO">
+<a href="https://github.com/Chandan9574/Movie_Booking_API_Node">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -141,24 +142,24 @@ RESTful backend for an end-to-end movie ticket booking system.
 
 ---
 
-## 💼 Internship Experience
+## 🔬 Internship
 
-### 🔬 Summer Intern — Indian Institute of Technology Delhi
+### Indian Institute of Technology Delhi
 
-**May 2026 – July 2026**
+**Summer Intern · May 2026 – July 2026**
 
 Worked on deep learning and computer vision for **Chest X-ray disease detection**.
 
 * Studied **CLIP and I-JEPA** research papers and presented their core concepts
 * Evaluated deep learning models using **TensorFlow/Keras**
 * Worked with binary and **CheXpert multi-label classification**
-* Configured ML environments and resolved TensorFlow dependency issues
+* Configured ML environments and resolved TensorFlow compatibility issues
 * Trained a binary classification model for 20 epochs
 * Achieved **88.62% test accuracy with 0.2623 test loss**
 
 ---
 
-## 🛠️ Technologies
+## 🧰 Technical Toolkit
 
 ### 💻 Languages
 
@@ -203,11 +204,13 @@ Worked on deep learning and computer vision for **Chest X-ray disease detection*
 
 ---
 
-## 🧠 DSA & Problem Solving
+## 🧠 Problem Solving
 
 <p align="center">
 
+<a href="https://leetcode.com/u/chandan_38/">
 <img src="https://img.shields.io/badge/450%2B-LeetCode%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
 <img src="https://img.shields.io/badge/C%2B%2B-Primary%20DSA%20Language-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 
@@ -219,7 +222,7 @@ Focused on:
 
 ---
 
-## 🏆 Achievements
+## 🏆 Milestones
 
 * 🥇 **1st Position** — Proof Ideathon of Maths, NIT Mizoram
 * 🥈 **2nd Position** — Debate Competition, NIT Mizoram
@@ -227,53 +230,47 @@ Focused on:
 
 ---
 
-## 👨‍💻 Coding & AI Club — NIT Mizoram
+## 🤝 Community & Leadership
+
+### Coding & AI Club — NIT Mizoram
 
 **Developer Member · 2024 – Present**
 
 * Contributed to the development and maintenance of the club website
 * Participated in technical initiatives and development activities
 
-<a href="YOUR_CLUB_REPO">
-<img src="https://img.shields.io/badge/Club%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
 ---
 
-## 📊 GitHub Activity
+## 📈 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=default"
+  <img src="https://github-readme-stats.vercel.app/api?username=Chandan9574&show_icons=true&hide_border=true&theme=default"
        height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=default"
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandan9574&layout=compact&hide_border=true&theme=default"
        height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true"
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chandan9574&hide_border=true"
        height="165"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Find Me Online
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="YOUR_GITHUB_URL">
+<a href="https://github.com/Chandan9574">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR_LEETCODE_URL">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<a href="https://www.linkedin.com/in/chandan-kumar-6bb627331/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_CODEFORCES_URL">
-<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+<a href="https://leetcode.com/u/chandan_38/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 </p>
