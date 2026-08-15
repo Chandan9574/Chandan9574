@@ -241,21 +241,13 @@ Focused on:
 
 ---
 
-## 📈 GitHub Overview
+## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chandan9574&show_icons=true&hide_border=true&theme=default"
-       height="165"
-       alt="Chandan's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandan9574&layout=compact&hide_border=true&theme=default"
-       height="165"
-       alt="Chandan's Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Chandan9574&hide_border=true&theme=default"
-       height="165"
-       alt="Chandan's GitHub Streak"/>
+  <a href="https://github.com/Chandan9574">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chandan9574&theme=github-compact&hide_border=true"
+         alt="Chandan's GitHub Activity Graph"/>
+  </a>
 </p>
 
 ---
