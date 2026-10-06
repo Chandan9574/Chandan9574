@@ -273,3 +273,32 @@ Focused on:
 <p align="center">
 <i>Build • Solve • Learn</i>
 </p>
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandan9574&layout=compact&theme=dark&hide_border=true"
+       alt="Most Used Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chandan9574&show_icons=true&theme=dark&hide_border=true&include_all_commits=true"
+       alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Chandan9574&theme=dark&hide_border=true"
+       alt="GitHub Streak"/>
+</p>
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <a href="https://github.com/Chandan9574">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chandan9574&theme=github-compact&hide_border=true"
+         alt="Chandan's GitHub Activity Graph"/>
+  </a>
+</p>
