@@ -244,10 +244,18 @@ Focused on:
 ## 📈 GitHub Activity
 
 <p align="center">
+  <---
+
+## 📈 GitHub Activity
+
+<p align="center">
   <a href="https://github.com/Chandan9574">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chandan9574&theme=github-compact&hide_border=true"
-         alt="Chandan's GitHub Activity Graph"/>
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Chandan9574&theme=github-compact&hide_border=true"
+      alt="Chandan's GitHub Activity Graph"
+    />
   </a>
+</p>
 </p>
 
 ---
