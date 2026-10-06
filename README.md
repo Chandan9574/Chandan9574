@@ -240,9 +240,6 @@ Focused on:
 * Participated in technical initiatives and development activities
 
 ---
-## 📈 GitHub Activity
-
----
 
 ## 📈 GitHub Activity
 
