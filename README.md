@@ -240,22 +240,13 @@ Focused on:
 * Participated in technical initiatives and development activities
 
 ---
+## 📈 GitHub Activity
+
+---
 
 ## 📈 GitHub Activity
 
-<p align="center">
-  <---
-
-## 📈 GitHub Activity
-
-<p align="center">
-  <a href="https://github.com/Chandan9574">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=Chandan9574&theme=github-compact&hide_border=true"
-      alt="Chandan's GitHub Activity Graph"
-    />
-  </a>
-</p>
+[![Chandan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Chandan9574)](https://github.com/Chandan9574)
 </p>
 
 ---
